@@ -6,9 +6,7 @@
 ok/
 cs/
 /node_modules
-/public/assets
-/public/storage
-/public/uploads
+/public/logs
 /storage/*.key
 /storage/debugbar
 /vendor
@@ -31,8 +29,4 @@ ecommerce.zip
 install.zip
 /nbproject/private/
 /nbproject
-/public/app-translations
-public/uploads.zip
 .env
-public/all
-
